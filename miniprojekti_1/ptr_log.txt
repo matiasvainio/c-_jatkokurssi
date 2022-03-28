@@ -1,0 +1,12 @@
+Mon Mar 28 10:40:33 2022 omistajuus siirretty 0x55edd825ceb0
+Mon Mar 28 10:40:33 2022 operator-> 0x55edd825ceb0
+Mon Mar 28 10:40:33 2022 kopiokonstruktori 0x55edd825ceb0
+Mon Mar 28 10:40:33 2022 operator* 0x55edd825ceb0
+Mon Mar 28 10:40:33 2022 omistajuus siirretty 0x55edd825d1a0
+Mon Mar 28 10:40:33 2022 olio tuhottu sijoitusoperaatiosta 0x55edd825d1a0
+Mon Mar 28 10:40:33 2022 sijoitusoperaatio 0x55edd825ceb0
+Mon Mar 28 10:40:33 2022 operator-> 0x55edd825ceb0
+Mon Mar 28 10:40:33 2022 olio tuhottu 0x55edd825ceb0
+Mon Mar 28 10:40:33 2022 olio tuhottu 0x55edd825ceb0
+Mon Mar 28 10:40:33 2022 operator-> 0x55edd825ceb0
+Mon Mar 28 10:40:33 2022 olio tuhottu 0x55edd825ceb0
