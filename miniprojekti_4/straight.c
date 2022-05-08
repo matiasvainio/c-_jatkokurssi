@@ -85,7 +85,7 @@ int main() {
     }
     t2 = clock();
     printf("Suoria     : %d kpl (oikea arvo 1228800)\n", suoria);
-    printf("Aikaa kului: %.1fs\n", (t2 - t1) / (float)CLOCKS_PER_SEC);
+    printf("Aikaa kului (ilman hakutaulua): %.1fs\n", (t2 - t1) / (float)CLOCKS_PER_SEC);
 
     t1 = clock();
     suoria = 0;
